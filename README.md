@@ -20,3 +20,7 @@
 - [LyricHere](https://github.com/SkillCollege/SimplifyReader)<br/>
   Material design的音乐/歌词播放器，带独立的歌词播放模块<br/>
   ![](https://github.com/markzhai/LyricHere/blob/master/art/Screenshot_2015-09-12-23-14-37.jpg)
+
+- [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)<br/>
+   更纯净的知乎日报<br/>
+  ![](https://raw.githubusercontent.com/izzyleung/ZhihuDailyPurify/master/ZhihuDailyPurify.png)
