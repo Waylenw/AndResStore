@@ -16,3 +16,7 @@
 - [SimplifyReader](https://github.com/SkillCollege/SimplifyReader)<br/>
   Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。MVP的开发模式<br/>
   ![](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg)
+
+- [LyricHere](https://github.com/SkillCollege/SimplifyReader)<br/>
+  Material design的音乐/歌词播放器，带独立的歌词播放模块<br/>
+  ![](https://github.com/markzhai/LyricHere/blob/master/art/Screenshot_2015-09-12-23-14-37.jpg)
