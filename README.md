@@ -10,5 +10,5 @@
   ![](https://raw.githubusercontent.com/wangdan/AisenWeibo/master/resource/aisen1.gif)
 
 - [StickerCamera](https://github.com/Skykai521/StickerCamera)<br/>
-  一个实现贴纸、滤镜、标签的App.很多自定义控件
-  ![](https://raw.githubusercontent.com/wangdan/AisenWeibo/master/resource/aisen1.gif)
+  一个实现贴纸、滤镜、标签的App.很多自定义控件)<br/
+  ![](https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif)
