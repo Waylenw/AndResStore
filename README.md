@@ -1,14 +1,17 @@
 # open_app_source
 开源App收藏列表
-- [BiliClient客户端](https://github.com/android-cjj/BiliClient)
+- [BiliClient客户端](#BiliClient)
 - [AisenWeiBo新浪微博](https://github.com/wangdan/AisenWeiBo)
-- [StickerCamera](https://github.com/Skykai521/StickerCamera)
-- [SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
-- [LyricHere](https://github.com/SkillCollege/SimplifyReader)
-- [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)
+- [StickerCamera贴纸滤镜](https://github.com/Skykai521/StickerCamera)
+- [SimplifyReader简阅](https://github.com/SkillCollege/SimplifyReader)
+- [LyricHere音乐播放器](https://github.com/SkillCollege/SimplifyReader)
+- [ZhihuDailyPurify知乎日报](https://github.com/izzyleung/ZhihuDailyPurify)
+
+
+
 
 # 列表详情
-- <a name="#BiliClient">[BiliClient客户端](https://github.com/android-cjj/BiliClient)</a><br/>
+- <a name="#BiliClient">]</a>[BiliClient客户端(https://github.com/android-cjj/BiliClient)<br/>
    仿bilibili客户端.播放多种视频类型。包含正常使用的视频。还有直播类型的<br/>
   ![](https://camo.githubusercontent.com/33d99a3ca4afc9b1691eb124a97979aebaa25177/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f313634303330656e396e623472736d736f396e7170632e706e67)
 
