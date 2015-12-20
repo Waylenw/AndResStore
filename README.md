@@ -1,17 +1,7 @@
 # open_app_source
 开源App收藏列表
-- [BiliClient客户端](https://github.com/android-cjj/BiliClient)
-- [AisenWeiBo新浪微博](https://github.com/wangdan/AisenWeiBo)
-- [StickerCamera贴纸滤镜](https://github.com/Skykai521/StickerCamera)
-- [SimplifyReader简阅](https://github.com/SkillCollege/SimplifyReader)
-- [LyricHere音乐播放器](https://github.com/SkillCollege/SimplifyReader)
-- [ZhihuDailyPurify知乎日报](https://github.com/izzyleung/ZhihuDailyPurify)
-- [superCleanMaster一键清理](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)
 
-
-
-
-# 列表详情
+# 收藏列表
 
 - [BiliClient客户端](https://github.com/android-cjj/BiliClient)<br/>
   仿BiliClient客户端。播放多种视频类型。包含正常使用的视频。还有直播类型的<br/>
@@ -38,3 +28,6 @@
 
 - [superCleanMaster一键清理](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)<br/>
    一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。<br/>
+
+- [EWeightScale体重档案](https://github.com/Jhuster/EWeightScale)<br/>
+一款可以记录和查询体重的应用，动态生成体重曲线图，支持手势缩放<br/>
