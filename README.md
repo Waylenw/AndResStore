@@ -36,5 +36,5 @@
    更纯净的知乎日报<br/>
   ![](https://raw.githubusercontent.com/izzyleung/ZhihuDailyPurify/master/ZhihuDailyPurify.png)
 
-- [superCleanMaster一键清理](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)
+- [superCleanMaster一键清理](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)<br/>
    一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。<br/>
