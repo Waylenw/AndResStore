@@ -6,6 +6,7 @@
 - [SimplifyReader简阅](https://github.com/SkillCollege/SimplifyReader)
 - [LyricHere音乐播放器](https://github.com/SkillCollege/SimplifyReader)
 - [ZhihuDailyPurify知乎日报](https://github.com/izzyleung/ZhihuDailyPurify)
+- [superCleanMaster一键清理](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)
 
 
 
@@ -34,3 +35,6 @@
 - [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)<br/>
    更纯净的知乎日报<br/>
   ![](https://raw.githubusercontent.com/izzyleung/ZhihuDailyPurify/master/ZhihuDailyPurify.png)
+
+- [superCleanMaster一键清理](https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg)
+   一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。<br/>
