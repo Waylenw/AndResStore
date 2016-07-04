@@ -1,6 +1,8 @@
 # Android_App_Open_Source
 开源App收藏列表
 - [社交类](#shejiao)<br/>
+- [音视频](#video)<br/>
+- [其他](#other)<br/>
 
 
 # <a href="#shejiao">社交</a>
@@ -11,7 +13,8 @@
 - [AisenWeiBo新浪微博](https://github.com/wangdan/AisenWeiBo)<br/>
   ![](https://raw.githubusercontent.com/wangdan/AisenWeibo/master/resource/aisen1.gif)
 
-# 音视频
+
+# <a href="#video">音视频</a>
 
 - [BiliClient客户端](https://github.com/android-cjj/BiliClient)<br/>
   仿BiliClient客户端。播放多种视频类型。包含正常使用的视频。还有直播类型的<br/>
@@ -25,7 +28,8 @@
   Material design的音乐/歌词播放器，带独立的歌词播放模块<br/>
   ![](https://github.com/markzhai/LyricHere/blob/master/art/Screenshot_2015-09-12-23-14-37.jpg)
 
-# 其他
+# <a href="#other">其他</a>
+
 - [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)<br/>
    更纯净的知乎日报<br/>
   ![](https://raw.githubusercontent.com/izzyleung/ZhihuDailyPurify/master/ZhihuDailyPurify.png)
