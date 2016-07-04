@@ -1,7 +1,9 @@
 # Android_App_Open_Source
 开源App收藏列表
+- [社交类](#shejiao)<br/>
 
-# 社交
+
+# <a href="#shejiao">社交</a>
 - [StickerCamera](https://github.com/Skykai521/StickerCamera)<br/>
   一个实现贴纸、滤镜、标签的App.很多自定义控件<br/>
   ![](https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif)
