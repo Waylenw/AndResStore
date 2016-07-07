@@ -5,7 +5,7 @@
 - [其他](#other)<br/>
 
 
-# <a href="#shejiao">社交</a>
+# <a name="#shejiao">社交</a>
 - [StickerCamera](https://github.com/Skykai521/StickerCamera)<br/>
   一个实现贴纸、滤镜、标签的App.很多自定义控件<br/>
   ![](https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif)
@@ -14,7 +14,7 @@
   ![](https://raw.githubusercontent.com/wangdan/AisenWeibo/master/resource/aisen1.gif)
 
 
-# <a href="#video">音视频</a>
+# <a name="#video">音视频</a>
 
 - [BiliClient客户端](https://github.com/android-cjj/BiliClient)<br/>
   仿BiliClient客户端。播放多种视频类型。包含正常使用的视频。还有直播类型的<br/>
@@ -28,7 +28,7 @@
   Material design的音乐/歌词播放器，带独立的歌词播放模块<br/>
   ![](https://github.com/markzhai/LyricHere/blob/master/art/Screenshot_2015-09-12-23-14-37.jpg)
 
-# <a href="#other">其他</a>
+# <a name="#other">其他</a>
 
 - [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)<br/>
    更纯净的知乎日报<br/>
