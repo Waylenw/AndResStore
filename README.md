@@ -6,14 +6,11 @@
 
 
 
-  
-  
 
 
 
 
-##<a name="#shejiao">社交</a>
-
+##<a name="#shejiao"></a>社交
 - [StickerCamera](https://github.com/Skykai521/StickerCamera)<br/>
   一个实现贴纸、滤镜、标签的App.很多自定义控件<br/>
   ![](https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif)
