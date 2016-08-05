@@ -1,5 +1,6 @@
-# Android_App_Open_Source
-开源App收藏列表
+# Android_Resource_Store_Project
+Android相关资源收集。
+
 - [社交类](#社交)
 - [音视频](#音视频)
 - [其他](#其他)
