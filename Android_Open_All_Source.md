@@ -5,6 +5,10 @@
 - [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)<br>
 RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动删除。支持Item拖动排序<br>
 ![](https://raw.githubusercontent.com/yanzhenjie/SwipeRecyclerView/master/image/3.gif)
+- [SideBar](https://github.com/kongnanlive/SideBar)<br>
+列表索引控件。索引有浮动效果<br>
+![](https://raw.githubusercontent.com/kongnanlive/SideBar/master/gif5.gif)
+
 
  
 # 多媒体
