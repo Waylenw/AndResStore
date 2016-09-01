@@ -8,6 +8,9 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [SideBar](https://github.com/kongnanlive/SideBar)<br>
 列表索引控件。索引有浮动效果<br>
 ![](https://raw.githubusercontent.com/kongnanlive/SideBar/master/gif5.gif)
+- [PullZoomView](https://github.com/jeasonlzy0216/PullZoomView)<br>
+下拉头部视觉差效果。<br>
+![](https://github.com/jeasonlzy0216/PullZoomView/blob/master/screenshots/demo4.gif)
 
 
  
