@@ -26,3 +26,10 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 支持四个方向循环滚动的自定义控件<br>
 ![](https://github.com/oubowu/MarqueeLayoutLibrary/raw/master/pic/demo.gif)
 
+
+
+
+# 多媒体功能
+- [Luban](https://github.com/Curzibn/Luban)<br>
+ （鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略
+
