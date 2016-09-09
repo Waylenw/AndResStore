@@ -27,6 +27,10 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 ![](https://github.com/oubowu/MarqueeLayoutLibrary/raw/master/pic/demo.gif)
 
 
+#　对话框
+- [PickerView(2.x)](https://github.com/saiwu-bigkoo/Android-PickerView)<br>
+Android版PickerView升级版。精仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果<br>
+![](https://raw.githubusercontent.com/saiwu-bigkoo/Android-PickerView/master/preview/pickerdemo.gif)
 
 
 # 多媒体功能
