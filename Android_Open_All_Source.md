@@ -34,8 +34,8 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 
 
 #　对话框
-- [PickerView(2.x)](https://github.com/saiwu-bigkoo/Android-PickerView)<br>
-Android版PickerView升级版。精仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果<br>
+- [PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)<br>
+Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.(数据组装不方便)<br>
 ![](https://raw.githubusercontent.com/saiwu-bigkoo/Android-PickerView/master/preview/pickerdemo.gif)
 
 
