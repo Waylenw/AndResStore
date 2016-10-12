@@ -17,6 +17,9 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [PullZoomView](https://github.com/jeasonlzy0216/PullZoomView)<br>
 下拉头部视觉差效果。<br>
 ![](https://github.com/jeasonlzy0216/PullZoomView/blob/master/screenshots/demo4.gif)
+- [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)<br>
+将每个分类titile显示在上方,并跟随内容滑动替换。<br>
+![](https://github.com/emilsjolander/StickyListHeaders/raw/master/demo.gif)
 
 
  
