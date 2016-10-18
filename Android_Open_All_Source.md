@@ -2,6 +2,7 @@
  Android开源项目汇总<br>
  目录引导<br>
  - [ListView](#ListView)
+ - [Loading](#Loading)
  - [多媒体](#多媒体)
  - [View效果](#view效果)
  - [多媒体功能](#多媒体功能)
@@ -20,6 +21,14 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)<br>
 将每个分类titile显示在上方,并跟随内容滑动替换。<br>
 ![](https://github.com/emilsjolander/StickyListHeaders/raw/master/demo.gif)
+
+
+# Loading
+- [FlickerProgressBar](https://github.com/LineChen/FlickerProgressBar)<br>
+仿应用宝加载<br>
+博客链接:http://blog.csdn.net/u011102153/article/details/52367206<br>
+![](https://raw.githubusercontent.com/LineChen/FlickerProgressBar/master/screenshot/screenshot.gif)
+
 
 
  
