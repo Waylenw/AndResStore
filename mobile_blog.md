@@ -47,7 +47,7 @@ blog:http://blog.csdn.net/guolin_blog<br/>
 知识点比较深入，比较多的源码分析的讲解。涉及功能应用也比较多。<br/>
 blog:http://blog.csdn.net/xiaanming?viewmode=contents<br/>
 
-- **stormzhang**
+- **stormzhang**<br/>
 9GAG、CustomLoading等的开源项目的作者。薄荷科技的项目主管。<br/>
 blog:http://stormzhang.com/<br/>
   
