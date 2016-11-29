@@ -27,8 +27,13 @@ csdn博客专家。对ios和android都相关的博客专栏<br/>
 blog:http://blog.csdn.net/xyz_lmn?viewmode=contents<br/>
   
 - **任玉刚**<br/>
-csdn博客专家.《Android开发艺术探索的作者》.在百度安全卫士的团队<br/>
+csdn博客专家.《Android开发艺术探索》的作者.在百度安全卫士的团队<br/>
 blog:http://blog.csdn.net/singwhatiwanna<br/>
+
+
+- **李旺成**<br/>
+简书博客.github的studyDemo很全面。适合新手学习。<br/>
+blog:http://www.jianshu.com/users/0ad0a0afc409<br/>
   
 - **农民伯伯**<br/>
 Android中文Api的发起人。<br/>
