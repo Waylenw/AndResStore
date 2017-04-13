@@ -60,6 +60,6 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
 # 开源播放器
 - [Vitamio](https://github.com/yixia/VitamioBundle/tree/v3.0)<br>
  官网:https://www.vitamio.org<br>
- Vitamio是[一下科技]http://www.yixia.com)(旗下产品有小咖秀和秒拍)一个开源的项目，全面支持硬件解码与 GPU 渲染.以及各种视频格式
+ Vitamio是[一下科技](http://www.yixia.com)(旗下产品有小咖秀和秒拍)一个开源的项目，全面支持硬件解码与 GPU 渲染.以及各种视频格式
  和视频流格式的播放
 
