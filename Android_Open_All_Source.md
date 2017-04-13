@@ -6,6 +6,7 @@
  - [多媒体](#多媒体)
  - [View效果](#view效果)
  - [多媒体功能](#多媒体功能)
+ - [开源播放器](#开源播放器)
  
  
 # ListView
@@ -54,4 +55,11 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
 # 多媒体功能
 - [Luban](https://github.com/Curzibn/Luban)<br>
  （鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略
+ 
+ 
+# 开源播放器
+- [Vitamio](https://github.com/yixia/VitamioBundle/tree/v3.0)<br>
+ 官网:https://www.vitamio.org/<br>
+ Vitamio是[一下科技](http://www.yixia.com/aboutus.html)(旗下产品有小咖秀和秒拍)一个开源的项目，全面支持硬件解码与 GPU 渲染.以及各种视频格式
+ 和视频流格式的播放
 
