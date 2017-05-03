@@ -1,10 +1,11 @@
 # Android_Open_All_Source
  Android开源项目汇总<br>
  目录引导<br>
- - [ListView](#ListView)
+ - [ListView](#listView)
  - [Loading](#loading)
  - [多媒体](#多媒体)
  - [View效果](#view效果)
+ - [对话框](#对话框)
  - [功能框架](#功能框架)
  - [开源播放器](#开源播放器)
  
@@ -58,7 +59,7 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 ![](https://github.com/oubowu/MarqueeLayoutLibrary/raw/master/pic/demo.gif)
 
 
-#　对话框
+# 对话框
 - [PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)<br>
 Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.(数据组装不方便)<br>
 ![](https://raw.githubusercontent.com/saiwu-bigkoo/Android-PickerView/master/preview/pickerdemo.gif)
