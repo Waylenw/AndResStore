@@ -37,7 +37,7 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
  ![](https://raw.githubusercontent.com/Kyson/WhorlView/master/art/whorl_progress_showcase.gif)
 - [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)<br>
  Android Loading动画的一个集合<br>
- ![](https://raw.githubusercontent.com/81813780/AVLoadingIndicatorView/master/Demo.gif)
+ ![](https://github.com/81813780/AVLoadingIndicatorView/raw/master/screenshots/avi.gif)
 - [shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)<br>
 仿58loading效果<br>
  ![](https://camo.githubusercontent.com/575b98a56c5546043ec045d044429590e4a623fe/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d376434313538646532636534306139612e676966)
