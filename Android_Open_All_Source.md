@@ -1,7 +1,7 @@
 # Android_Open_All_Source
  Android开源项目汇总<br>
  目录引导<br>
- - [ListView](##listview)
+ - [ListView](#listview)
  - [Loading](#loading)
  - [多媒体](#多媒体)
  - [View效果](#view效果)
@@ -68,8 +68,10 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
 # 功能框架
 - [Luban](https://github.com/Curzibn/Luban)<br>
  （鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略
- - [CompressHelper](https://github.com/nanchen2251/CompressHelper)<br>
+- [CompressHelper](https://github.com/nanchen2251/CompressHelper)<br>
  （压缩文件，压缩图片，压缩Bitmap
+- [RxPermissions](https://github.com/tbruyelle/RxPermissions)<br>
+ Rxjavax形式的权限申请库
  
  
  
