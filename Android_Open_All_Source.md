@@ -5,7 +5,7 @@
  - [Loading](#loading)
  - [多媒体](#多媒体)
  - [View效果](#view效果)
- - [多媒体功能](#多媒体功能)
+ - [功能框架](#功能框架)
  - [开源播放器](#开源播放器)
  
  
@@ -52,9 +52,12 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
 ![](https://raw.githubusercontent.com/saiwu-bigkoo/Android-PickerView/master/preview/pickerdemo.gif)
 
 
-# 多媒体功能
+# 功能框架
 - [Luban](https://github.com/Curzibn/Luban)<br>
  （鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略
+ - [CompressHelper](https://github.com/nanchen2251/CompressHelper)<br>
+ （压缩文件，压缩图片，压缩Bitmap
+ 
  
  
 # 开源播放器
