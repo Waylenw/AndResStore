@@ -12,6 +12,7 @@
  - [对话框](#对话框)
  - [功能框架](#功能框架)
  - [图表](#图表)
+ - [动画](#动画)
  - [开源播放器](#开源播放器)
  
  
@@ -106,6 +107,17 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
 - [Apk统计自身被卸载](https://github.com/sevenler/Uninstall_Statics)<br>
 - [Emoji表情的实现](https://github.com/kymjs/EmojiChat)<br>
  ![](https://raw.githubusercontent.com/kymjs/EmojiChat/master/screen_shots/Screenshot_2.png)
+
+
+# 动画
+ 
+- [SwitchLayout](https://github.com/jaychou2012/SwitchLayout)<br>
+   视图切换动画<br>
+- [NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects)<br>
+ 支持自定义飞入动画样式的 Dialog<br>
+- [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)<br>
+ View动画的Android 
+
 
 
 # 图表
