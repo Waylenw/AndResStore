@@ -4,16 +4,19 @@
  [Github最全面的Android开源项目汇总](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%BA%8Cflipview) 
  
  目录引导<br>
- - [ListView](#listview)
- - [ViewPager](#viewpager)
- - [Loading](#loading)
- - [多媒体](#多媒体)
- - [View效果](#view效果)
- - [对话框](#对话框)
- - [功能框架](#功能框架)
- - [图表](#图表)
- - [动画](#动画)
- - [开源播放器](#开源播放器)
+ - [ListView](#listview)<br>
+ - [下拉上拉刷新](#下拉上拉刷新)<br>
+ - [ViewPager](#viewpager)<br>
+ - [Loading](#loading)<br>
+ - [MD](#md)<br>
+ - [多媒体](#多媒体)<br>
+ - [View效果](#view效果)<br>
+ - [对话框](#对话框)<br>
+ - [功能框架](#功能框架)<br>
+ - [图表](#图表)<br>
+ - [动画](#动画)<br>
+ - [图像处理](#图像处理)<br>
+ - [开源播放器](#开源播放器)<br>
  
  
 # ListView
@@ -29,6 +32,16 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)<br>
 将每个分类titile显示在上方,并跟随内容滑动替换。<br>
 ![](https://github.com/emilsjolander/StickyListHeaders/raw/master/demo.gif)
+
+
+# 下拉上拉刷新
+ 
+- [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)<br>
+多种下拉刷新效果(支持上拉刷新)<br>
+- [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)<br>
+支持ListView、RecycleView上拉刷新以及右滑动删除，支持拖动，动画，和和粘性头部。隐藏和显示Actionbar和ToolBar等
+- [Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)<br>
+此库是单纯的下拉刷新的组件,使用起来简单，`API LEVEL >= 8`可以ui样式十分的简单。还有md风格的下拉刷新样式哦。
 
 
 
@@ -62,6 +75,19 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 仿58loading效果<br>
  ![](https://camo.githubusercontent.com/575b98a56c5546043ec045d044429590e4a623fe/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d376434313538646532636534306139612e676966)
 
+# MD
+ - [MaterialDialog](https://github.com/drakeet/MaterialDialog)<br>
+ MD风格的dialog<br>
+ - [material library](https://github.com/rey5137/material)<br>
+ Md风格组件的集合<br>
+ - [RippleView](https://github.com/siriscac/RippleView)<br>
+ 兼容低版本的水波纹控件<br>
+![](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966)
+ - [MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker)<br>
+ MD风格的文件选择器
+
+
+
 
 
  
@@ -82,13 +108,21 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [MarqueeLayoutLibrary](https://github.com/oubowu/MarqueeLayoutLibrary)<br>
 支持四个方向循环滚动的自定义控件<br>
 ![](https://github.com/oubowu/MarqueeLayoutLibrary/raw/master/pic/demo.gif)
+- [SlidingCard](https://github.com/mxn21/SlidingCard)<br>
+ 相册的效果滑动<br>
+![](https://raw.githubusercontent.com/mxn21/SlidingCard/master/screen.gif)
+ - [RadarScanView](https://github.com/gpfduoduo/RadarScanView)<br>
+ 雷达扫描的效果<br>
+![](https://raw.githubusercontent.com/gpfduoduo/RadarScanView/master/RadarScanView/gif/radar.gif)
 
 
 # 对话框
 - [PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)<br>
 Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.(数据组装不方便)<br>
 ![](https://raw.githubusercontent.com/saiwu-bigkoo/Android-PickerView/master/preview/pickerdemo.gif)
-
+- [FlycoDialog](https://github.com/H07000223/FlycoDialog_Master)<br>
+ 多种样式与动画效果的对话框<br>
+![](https://raw.githubusercontent.com/H07000223/FlycoDialog_Master/master/gif/preview_1.gif)
 
 # 功能框架
 - [Luban](https://github.com/Curzibn/Luban)<br>
@@ -118,6 +152,14 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
 - [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)<br>
  View动画的Android 
 
+
+# 图像处理
+ 
+- [ImageBlurring](https://github.com/qiujuer/ImageBlurring)<br>
+   图像模糊<br>
+- [BitmapMerger](https://github.com/cooltechworks/BitmapMerger)<br>
+   图片合成库<br>
+![](https://cloud.githubusercontent.com/assets/13122232/8438305/9f7c2644-1f82-11e5-8f51-25ba7cca0711.gif)
 
 
 # 图表
