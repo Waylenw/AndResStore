@@ -5,7 +5,7 @@
  
  目录引导<br>
  - [ListView](#listview)
- - [ViewPager](#vierpager)
+ - [ViewPager](#viewpager)
  - [Loading](#loading)
  - [多媒体](#多媒体)
  - [View效果](#view效果)
@@ -95,16 +95,16 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
 - [CompressHelper](https://github.com/nanchen2251/CompressHelper)<br>
  （压缩文件，压缩图片，压缩Bitmap
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions)<br>
- Rxjavax形式的权限申请库
- - [pinyin4j](http://wister.iteye.com/blog/334562)
-    汉字转拼音,获取汉字首字母等操作。
-- [MutiPhotoChoser](https://git.oschina.net/xiao-lifan/MutiPhotoChoser)
-  自定义相册多图选择  
-- [Colorful](https://github.com/bboyfeiyu/Colorful)
-  实现了换肤的功能。
+ Rxjavax形式的权限申请库<br>
+ - [pinyin4j](http://wister.iteye.com/blog/334562)<br>
+    汉字转拼音,获取汉字首字母等操作。<br>
+- [MutiPhotoChoser](https://git.oschina.net/xiao-lifan/MutiPhotoChoser)<br>
+  自定义相册多图选择  <br>
+- [Colorful](https://github.com/bboyfeiyu/Colorful)<br>
+  实现了换肤的功能。<br>
   ![](https://raw.githubusercontent.com/hehonghui/Colorful/master/images/colorful.gif)
-- [Apk统计自身被卸载](https://github.com/sevenler/Uninstall_Statics)
-- [Emoji表情的实现](https://github.com/kymjs/EmojiChat)
+- [Apk统计自身被卸载](https://github.com/sevenler/Uninstall_Statics)<br>
+- [Emoji表情的实现](https://github.com/kymjs/EmojiChat)<br>
  ![](https://raw.githubusercontent.com/kymjs/EmojiChat/master/screen_shots/Screenshot_2.png)
 
 
