@@ -1,7 +1,11 @@
 # Android_Open_All_Source
  Android开源项目汇总<br>
+ **推荐**  
+ [Github最全面的Android开源项目汇总](https://github.com/Trinea/android-open-project#%E5%8D%81%E4%BA%8Cflipview) 
+ 
  目录引导<br>
  - [ListView](#listview)
+ - [ViewPager](#vierpager)
  - [Loading](#loading)
  - [多媒体](#多媒体)
  - [View效果](#view效果)
@@ -23,6 +27,19 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)<br>
 将每个分类titile显示在上方,并跟随内容滑动替换。<br>
 ![](https://github.com/emilsjolander/StickyListHeaders/raw/master/demo.gif)
+
+
+
+ # ViewPager
+  - [SpringIndicator](https://github.com/chenupt/SpringIndicator)<br>
+ viewapger指示器，像水滴流动的效果<br>
+  ![](https://raw.githubusercontent.com/chenupt/SpringIndicator/master/img/si_1.0.0.gif)
+ - [ProductTour](https://github.com/matrixxun/ProductTour)<br>
+ ViewPager的PageTransformer切换动画<br>
+ ![](https://raw.githubusercontent.com/matrixxun/ProductTour/master/art/run.gif)
+ - [VerticalViewawPager](https://github.com/kaelaela/VerticalViewawPager)<br>
+ VerticalVie向上滑动的viewpager,没有衔接效果<br>
+![](https://raw.githubusercontent.com/kaelaela/VerticalViewPager/master/art/default.gif)
 
 
 # Loading
