@@ -11,6 +11,7 @@
  - [View效果](#view效果)
  - [对话框](#对话框)
  - [功能框架](#功能框架)
+ - [图表](#图表)
  - [开源播放器](#开源播放器)
  
  
@@ -95,8 +96,21 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
  （压缩文件，压缩图片，压缩Bitmap
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions)<br>
  Rxjavax形式的权限申请库
- 
- 
+ - [pinyin4j](http://wister.iteye.com/blog/334562)
+    汉字转拼音,获取汉字首字母等操作。
+- [MutiPhotoChoser](https://git.oschina.net/xiao-lifan/MutiPhotoChoser)
+  自定义相册多图选择  
+- [Colorful](https://github.com/bboyfeiyu/Colorful)
+  实现了换肤的功能。
+  ![](https://raw.githubusercontent.com/hehonghui/Colorful/master/images/colorful.gif)
+- [Apk统计自身被卸载](https://github.com/sevenler/Uninstall_Statics)
+- [Emoji表情的实现](https://github.com/kymjs/EmojiChat)
+ ![](https://raw.githubusercontent.com/kymjs/EmojiChat/master/screen_shots/Screenshot_2.png)
+
+
+# 图表
+ - [WilliamChart](https://github.com/diogobernardino/WilliamChart)
+
  
 # 开源播放器
 - [SopCastComponent](https://github.com/LaiFeng-Android/SopCastComponent)<br>
