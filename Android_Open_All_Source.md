@@ -50,7 +50,13 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [uCrop](https://github.com/Yalantis/uCrop)<br>
 图片裁剪库<br>
 ![](https://github.com/Yalantis/uCrop/blob/master/preview.gif)
-
+- [AndroidFFmpeg](https://github.com/appunite/AndroidFFmpeg)<br>
+  Android FFmpeg.用于复杂视频处理(转码、压缩、录制视 频等)<br>
+- [android-gpuimage-plus](https://github.com/wysaid/android-gpuimage-plus)<br>
+  Android-gpuimag的增强版。<br>
+- [MagicCamera](https://github.com/wuhaoyu1990/MagicCamera)<br>
+ 集成了美颜滤镜效果。<br>
+ ![](https://raw.githubusercontent.com/wuhaoyu1990/MagicCamera/master/Screenshot_1.png)<br>
 
 
 # View效果
