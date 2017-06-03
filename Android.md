@@ -14,6 +14,10 @@
 
 
 
+# window
+- [4.4以上沉浸式状态栏和导航栏实现以及Bar的其他管理](http://www.jianshu.com/p/2a884e211a62)
+
+
 
 # 视频
 - [Android高手进阶](http://edu.csdn.net/course/detail/1923)
