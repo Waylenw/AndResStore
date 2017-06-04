@@ -71,3 +71,33 @@ blog:http://www.cnblogs.com/xiaochao1234/archive/2015/06.html<br/>
 # 社区
 - [极客头条](http://geek.csdn.net/)<br/>
 - [开发者头条](https://toutiao.io/)<br/>
+
+
+
+
+# 教育平台
+1. 慕课网
+IT技能学习平台，比较纯粹干净。
+网址:http://www.imooc.com/
+
+1. 极客学院
+IT技能学习平台，技能知识点相对于上面会多一些
+网址:http://www.jikexueyuan.com/
+
+1. CSN学院
+CSDN旗下的IT技能学习平台，有很多公开课和一些培训机构的合作
+网址:http://edu.csdn.net/
+
+1. 推酷课堂
+IT技能学习平台。感觉还是主要是技术沙龙和技术演讲视频为主。。。
+网址:http://course.tuicool.com/
+
+1. 51CTO学院
+IT技能学习平台，有视频课程。也有线下培训班。观看学习视频门槛较高。
+网址:http://edu.51cto.com/
+
+1. 优达学城
+IT技能学习平台.学习机器学习、人工智能、数据科学、无人驾驶。(包含Google、IBM的一些合作课程)
+https://cn.udacity.com/
+
+
