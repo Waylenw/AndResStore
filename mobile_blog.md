@@ -68,6 +68,11 @@ blog:http://blog.csdn.net/yanbober<br/>
 blog:http://www.cnblogs.com/xiaochao1234/archive/2015/06.html<br/>
 
 
+# 音视频
+- **雷霄骅**<br/>
+国内最好的音视频入门博客
+blog:http://blog.csdn.net/leixiaohua1020/<br/>
+
 # 社区
 - [极客头条](http://geek.csdn.net/)<br/>
 - [开发者头条](https://toutiao.io/)<br/>
