@@ -1,7 +1,8 @@
 # Android篇
 主要是收集Android开发教程。
 
-
+# 推荐
+- [共享android端知识点综合整理](http://blog.csdn.net/lupengfei1009/article/details/50826442)
 
 
 # 应用构建
