@@ -45,6 +45,10 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)<br>
 收藏数:1.8k。非常轻量的一个上拉下拉刷新。内置多种上拉下拉刷新头部的样式。
 ![](https://raw.githubusercontent.com/lcodecorex/TwinklingRefreshLayout/master/art/gif_listview.gif)
+- [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)<br>
+Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer
+![](https://raw.githubusercontent.com/scwang90/SmartRefreshLayout/master/art/gif_Delivery.gif)
+![](https://raw.githubusercontent.com/scwang90/SmartRefreshLayout/master/art/gif_BezierRadar.gif)
 
 
 
