@@ -82,7 +82,7 @@ Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极�
 仿58loading效果<br>
  ![](https://camo.githubusercontent.com/575b98a56c5546043ec045d044429590e4a623fe/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d376434313538646532636534306139612e676966)
  - [CircularProgressBar](https://github.com/lopspower/CircularProgressBar)<br>
-仿应用宝加载<br>
+ ![](https://raw.githubusercontent.com/lopspower/CircularProgressBar/master/preview/preview.gif)
  
 
 # MD
