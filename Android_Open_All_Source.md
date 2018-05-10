@@ -81,6 +81,9 @@ Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极�
 - [shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)<br>
 仿58loading效果<br>
  ![](https://camo.githubusercontent.com/575b98a56c5546043ec045d044429590e4a623fe/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d376434313538646532636534306139612e676966)
+ - [CircularProgressBar](https://github.com/lopspower/CircularProgressBar)<br>
+仿应用宝加载<br>
+ 
 
 # MD
  - [MaterialDialog](https://github.com/drakeet/MaterialDialog)<br>
@@ -92,7 +95,7 @@ Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极�
 ![](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966)
  - [MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker)<br>
  MD风格的文件选择器
-
+ ![](https://raw.githubusercontent.com/lopspower/CircularProgressBar/master/preview/preview.gif)
 
 
 
