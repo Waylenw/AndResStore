@@ -112,6 +112,10 @@ Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极�
 - [MagicCamera](https://github.com/wuhaoyu1990/MagicCamera)<br>
  集成了美颜滤镜效果。<br>
  ![](https://raw.githubusercontent.com/wuhaoyu1990/MagicCamera/master/Screenshot_1.png)<br>
+ - [Horizon](https://github.com/Yalantis/Horizon)<br>
+ Android上音频平衡器。<br>
+ ![](https://raw.githubusercontent.com/Yalantis/Horizon/master/blog_article_header.png)<br>
+ 
 
 
 # View效果
