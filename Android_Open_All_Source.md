@@ -50,7 +50,7 @@ Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极�
 ![](https://raw.githubusercontent.com/scwang90/SmartRefreshLayout/master/art/gif_Delivery.gif)
 ![](https://raw.githubusercontent.com/scwang90/SmartRefreshLayout/master/art/gif_BezierRadar.gif)
 - [SmartRefreshLayout](https://github.com/renjianan/SimpleBrowser)<br>
-仿微信小程序下拉效果
+仿微信小程序下拉效果<br>
 ![](https://raw.githubusercontent.com/renjianan/SimpleBrowser/master/gif/readme2.gif)
 
 
