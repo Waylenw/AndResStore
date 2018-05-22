@@ -49,7 +49,9 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer
 ![](https://raw.githubusercontent.com/scwang90/SmartRefreshLayout/master/art/gif_Delivery.gif)
 ![](https://raw.githubusercontent.com/scwang90/SmartRefreshLayout/master/art/gif_BezierRadar.gif)
-
+- [SmartRefreshLayout](https://github.com/renjianan/SimpleBrowser)<br>
+仿微信小程序下拉效果
+![](https://raw.githubusercontent.com/renjianan/SimpleBrowser/master/gif/readme2.gif)
 
 
  # ViewPager
