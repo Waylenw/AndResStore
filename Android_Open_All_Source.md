@@ -19,6 +19,7 @@
  - [动画](#动画)<br>
  - [图像处理](#图像处理)<br>
  - [开源播放器](#开源播放器)<br>
+ - [二维码](#二维码)<br>
  
  
 # ListView
@@ -213,3 +214,6 @@ Android版PickerVie。精仿iOS的PickerView控件，有时间选择和选项选
  官网:https://www.vitamio.org<br>
  Vitamio是[一下科技](http://www.yixia.com)(旗下产品有小咖秀和秒拍)一个开源的项目，支持多种视频播放的格式MKV，FLV，MP4，MOV，TS，RMVB等常见格式的视频，还可以在 Android 与 iOS 上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8) 等常见的多种视频流媒体协议，包括点播与直播
 
+# 二维码
+- [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)<br>
+QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
