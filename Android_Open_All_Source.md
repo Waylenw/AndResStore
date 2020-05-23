@@ -34,6 +34,9 @@ RecyclerView滑动删除。支持Viwapger以及各种列表形式的嵌套滑动
 - [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)<br>
 将每个分类titile显示在上方,并跟随内容滑动替换。<br>
 ![](https://github.com/emilsjolander/StickyListHeaders/raw/master/demo.gif)
+- [GroupedRecyclerViewAdapter](https://github.com/donkingliang/GroupedRecyclerViewAdapter)<br>
+GroupedRecyclerViewAdapter可以很方便的实现RecyclerView的分组显示。<br>
+![](https://github.com/donkingliang/GroupedRecyclerViewAdapter/raw/master/GroupedRecyclerViewAdapter%E6%BC%94%E7%A4%BA%E5%9B%BE/%E5%A4%B4%E9%83%A8%E5%90%B8%E9%A1%B6%E7%9A%84%E5%88%97%E8%A1%A8.gif)
 
 
 # 下拉上拉刷新
@@ -54,6 +57,10 @@ Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极�
 - [SmartRefreshLayout](https://github.com/renjianan/SimpleBrowser)<br>
 仿微信小程序下拉效果<br>
 ![](https://raw.githubusercontent.com/renjianan/SimpleBrowser/master/gif/readme2.gif)
+
+
+
+
 
 
  # ViewPager
