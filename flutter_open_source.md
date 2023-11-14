@@ -19,6 +19,7 @@
  - sqlbrite(数据库)
  - flutter_cache_manager(文件缓存库)
  - date_format(日期格式化)
+ - [share_plus(分享文件等)]([https://pub-web.flutter-io.cn/packages/motion_tab_bar_v2](https://pub-web.flutter-io.cn/packages/share_plus)https://pub-web.flutter-io.cn/packages/share_plus)
 
  # 社会化
  - tencent_kit(QQ)
