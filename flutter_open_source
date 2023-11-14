@@ -1,0 +1,11 @@
+# flutter开源库整理
+
+##  UI
+- 
+
+##  事件
+- event_bus(时间组件)
+
+## 功能组件
+- sqlbrite(数据库)
+- flutter_cache_manager(文件缓存库)
