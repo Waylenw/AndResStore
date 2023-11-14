@@ -5,6 +5,8 @@
  - svgaplayer_flutter(svga播放)
  - extended_nested_scroll_view(修复tab切换滚动问题)
  - flutter_inappwebview(webview)
+ - motion_tab_bar_v2(底部bar）
+![](https://raw.githubusercontent.com/kimmanwky/Motion-Tab-Bar/master/screenshots/screenshot3.png)
 
  ### 视频播放
  - video_player
