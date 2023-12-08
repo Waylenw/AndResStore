@@ -24,6 +24,7 @@
  - date_format(日期格式化)
  - [share_plus(分享文件等)](https://pub-web.flutter-io.cn/packages/share_plus)
  - [get_storage(KV存储)](https://pub-web.flutter-io.cn/packages/get_storage/example)
+ - [logger(日志)](https://pub.dev/packages/logger)
 
  # 社会化
  - tencent_kit(QQ)
