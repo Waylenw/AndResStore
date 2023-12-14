@@ -25,6 +25,7 @@
  - [share_plus(分享文件等)](https://pub-web.flutter-io.cn/packages/share_plus)
  - [get_storage(KV存储)](https://pub-web.flutter-io.cn/packages/get_storage/example)
  - [logger(日志)](https://pub.dev/packages/logger)
+ - [image_pickers](https://pub-web.flutter-io.cn/packages/image_pickers)
 
  # 社会化
  - tencent_kit(QQ)
