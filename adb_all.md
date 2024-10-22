@@ -1,3 +1,7 @@
+## 网络
+```
+adb shell  cat proc/net/arp
+```
 
 ## adb重启或关机手机命令
 ```
