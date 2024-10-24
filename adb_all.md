@@ -1,3 +1,8 @@
+## 视图
+```
+ adb shell   dumpsys window
+```
+
 ## 网络
 ```
 adb shell  cat proc/net/arp
