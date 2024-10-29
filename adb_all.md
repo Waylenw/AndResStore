@@ -8,6 +8,7 @@
 adb shell  cat proc/net/arp
 ```
 ```
+//表示已经打开的连接端口/网卡名称
 adb shell ifconfig
 ```
 
