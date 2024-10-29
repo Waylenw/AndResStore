@@ -7,6 +7,10 @@
 ```
 adb shell  cat proc/net/arp
 ```
+```
+adb shell ifconfig
+```
+
 
 ## adb重启或关机手机命令
 ```
