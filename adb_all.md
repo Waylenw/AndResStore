@@ -1,3 +1,9 @@
+## 存储
+```
+//查看分区
+adb shell df -h
+```
+
 ## 视图
 ```
  adb shell   dumpsys window
