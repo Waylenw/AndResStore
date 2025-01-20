@@ -10,7 +10,7 @@
 
 ## 高斯模糊
 - [Android 三行代码实现高斯模糊](https://juejin.cn/post/7144663860027326494#heading-2)
-
+- https://juejin.cn/post/7242211208408760378
 ```
 implementation 'com.github.mmin18:realtimeblurview:1.2.1'
 implementation 'com.github.centerzx:ShapeBlurView:1.0.5'
