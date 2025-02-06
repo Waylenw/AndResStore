@@ -22,4 +22,4 @@ implementation 'com.github.Dimezis:BlurView:version-2.0.5'
 - [Android 使用记录访问权限](https://juejin.cn/post/6844903464598765581)
 
 ## 存储
--[Android通过连接USB读写SD卡](https://blog.csdn.net/Gary__123456/article/details/131498266)
+- [Android通过连接USB读写SD卡](https://blog.csdn.net/Gary__123456/article/details/131498266)
