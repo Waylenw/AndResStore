@@ -24,3 +24,7 @@ implementation 'com.github.Dimezis:BlurView:version-2.0.5'
 
 ## 存储
 - [Android通过连接USB读写SD卡](https://blog.csdn.net/Gary__123456/article/details/131498266)
+
+
+## 框架
+- [autoSize]([https://blog.csdn.net/Gary__123456/article/details/131498266](https://tech.ipalfish.com/blog/2020/04/14/autosize/))
