@@ -28,3 +28,7 @@ implementation 'com.github.Dimezis:BlurView:version-2.0.5'
 
 ## 框架
 - [autoSize](https://tech.ipalfish.com/blog/2020/04/14/autosize/)
+
+
+## 动态化
+- [Android 加载其他Apk中的资源文件](https://blog.csdn.net/u013767495/article/details/54408883)
