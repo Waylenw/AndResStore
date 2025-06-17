@@ -1,5 +1,9 @@
 # Koilin技巧
 
+## JOB
+- [Job和SupervisorJob的区别](https://juejin.cn/post/7046191497628090399)
+
+  
 ## flow
 - [Kotlin学习篇——MutableStateFlow](https://blog.csdn.net/qq_39457683/article/details/131281593)
 
