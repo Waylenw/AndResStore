@@ -1,3 +1,5 @@
+- https://yeasy.gitbook.io/docker_practice/fu-lu/appendix/command/dockerd
+
 # Docker服务启动
 
 ```
@@ -19,3 +21,5 @@ sudo nano /etc/systemd/system/docker.service
 步骤3：更改ExecStart选项，添加--data-root
 
 ExecStart=/usr/bin/dockerd --data-root /new/path/docker -H fd://
+
+- 
